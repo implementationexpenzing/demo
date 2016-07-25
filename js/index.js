@@ -23,7 +23,7 @@ var fileTempCameraTS ="";
 var fileTempGalleryBE ="";
 var fileTempGalleryTS ="";
 var mapToCalcERAmt = new Map();
-dinesh a
+
 
 function login()
    {
